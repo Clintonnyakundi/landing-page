@@ -1,0 +1,1 @@
+This is a simple landing page that was started from scratch as part of my project for "The Odin Project" as per the design that was provided.
